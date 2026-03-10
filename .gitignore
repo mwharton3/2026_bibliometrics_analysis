@@ -209,3 +209,6 @@ __marimo__/
 # Project data and output
 data/
 output/
+
+# Jupyter notebooks (scratch/exploration)
+*.ipynb
