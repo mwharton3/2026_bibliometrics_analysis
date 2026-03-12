@@ -1,0 +1,342 @@
+year,field,subfield,median_ref_age,mean_ref_age,p25,p75,n_papers,n_references,total_refs,ref_resolution_rate
+2000,Computer Science,All,7.0,10.68639053254438,4.0,14.0,50,845,1112,0.826
+2001,Computer Science,All,7.0,9.639370078740157,3.0,13.0,50,635,819,0.829
+2002,Computer Science,All,7.0,9.403508771929825,3.0,13.0,50,741,931,0.829
+2003,Computer Science,All,7.0,8.889751552795031,3.0,12.0,50,644,805,0.825
+2004,Computer Science,All,6.0,9.844776119402985,2.0,12.0,50,670,838,0.823
+2005,Computer Science,All,5.5,9.363957597173146,2.0,13.0,50,566,761,0.774
+2006,Computer Science,All,5.0,8.558355437665783,2.0,11.0,50,754,959,0.805
+2007,Computer Science,All,7.0,10.976275207591934,4.0,14.0,50,843,1078,0.805
+2008,Computer Science,All,5.0,7.870229007633588,2.0,10.0,50,524,657,0.813
+2009,Computer Science,All,6.0,8.76271186440678,3.0,11.0,50,944,1211,0.796
+2010,Computer Science,All,7.0,10.154901960784313,4.0,13.0,50,1020,1272,0.815
+2011,Computer Science,All,6.0,8.906458797327394,3.0,11.0,50,898,1116,0.821
+2012,Computer Science,All,6.0,10.294197031039136,3.0,13.0,50,741,925,0.808
+2013,Computer Science,All,6.0,8.668993020937188,3.0,11.0,50,1003,1274,0.796
+2014,Computer Science,All,7.0,11.056623931623932,4.0,14.0,50,936,1151,0.822
+2015,Computer Science,All,8.0,12.19503219871205,3.5,16.0,50,1087,1318,0.829
+2016,Computer Science,All,7.0,10.30390492359932,3.0,13.0,50,1178,1446,0.817
+2017,Computer Science,All,7.0,10.46866485013624,3.0,15.0,50,734,952,0.772
+2018,Computer Science,All,8.0,10.39010989010989,4.0,13.0,50,728,983,0.745
+2019,Computer Science,All,8.0,11.696449026345933,5.0,15.0,50,873,1241,0.704
+2000,Medicine,All,7.0,10.154249737670515,4.0,13.0,50,953,1291,0.844
+2001,Medicine,All,6.0,9.111705685618729,3.0,12.0,50,1495,1716,0.881
+2002,Medicine,All,6.0,8.141801075268818,3.0,11.0,50,1488,1691,0.89
+2003,Medicine,All,7.0,8.839181286549708,4.0,11.25,50,1368,1522,0.903
+2004,Medicine,All,5.0,8.414762741652021,3.0,11.0,50,1138,1279,0.897
+2005,Medicine,All,5.0,7.722711267605634,2.0,10.0,50,1136,1285,0.896
+2006,Medicine,All,9.0,13.508894878706199,4.0,19.0,50,1855,2054,0.91
+2007,Medicine,All,7.0,9.668944570994684,3.0,13.0,50,1317,1464,0.909
+2008,Medicine,All,8.0,10.756695156695157,4.0,14.0,50,1755,1922,0.918
+2009,Medicine,All,6.0,8.223978919631094,3.0,11.0,50,1518,1664,0.919
+2010,Medicine,All,6.0,8.835955056179776,3.0,11.0,50,1780,1901,0.939
+2011,Medicine,All,7.0,9.281422440220723,4.0,12.0,50,1631,1797,0.912
+2012,Medicine,All,7.0,12.259647188533627,3.0,14.0,50,1814,2028,0.898
+2013,Medicine,All,7.0,9.710882512181916,3.0,13.0,50,1847,2005,0.924
+2014,Medicine,All,7.0,10.313411078717202,4.0,13.0,50,1372,1485,0.928
+2015,Medicine,All,9.0,12.289303661162958,4.0,16.0,50,1393,1537,0.909
+2016,Medicine,All,7.0,10.412244897959184,4.0,14.0,50,1470,1629,0.904
+2017,Medicine,All,8.0,11.782274947662247,4.0,15.0,50,1433,1580,0.907
+2018,Medicine,All,9.0,11.640829202343397,5.0,16.0,50,4438,4736,0.937
+2019,Medicine,All,9.0,12.665051483949123,5.0,16.0,50,1651,1991,0.83
+2020,Medicine,All,8.0,11.337931034482759,5.0,14.0,50,1015,1541,0.659
+2021,Medicine,All,11.0,13.600186393289842,7.0,17.0,50,1073,1621,0.662
+2000,Physics and Astronomy,All,6.0,10.400254129606099,3.0,14.0,50,787,889,0.898
+2001,Physics and Astronomy,All,7.0,10.702013422818792,3.0,14.0,50,745,831,0.907
+2002,Physics and Astronomy,All,7.0,10.013245033112582,3.0,12.0,50,604,701,0.882
+2003,Physics and Astronomy,All,7.0,11.077586206896552,3.0,14.0,50,812,905,0.903
+2004,Physics and Astronomy,All,7.0,11.609467455621301,3.0,16.0,50,1014,1171,0.886
+2005,Physics and Astronomy,All,6.0,10.765664160401002,3.0,14.75,50,798,950,0.855
+2006,Physics and Astronomy,All,8.0,11.35483870967742,3.0,15.0,50,1178,1324,0.9
+2007,Physics and Astronomy,All,8.0,11.612670408981556,4.0,16.0,50,1247,1458,0.862
+2008,Physics and Astronomy,All,7.0,11.480274442538594,3.0,15.0,50,1166,1331,0.883
+2009,Physics and Astronomy,All,7.0,10.597633136094675,3.0,14.0,50,1183,1418,0.841
+2010,Physics and Astronomy,All,7.0,10.669650122050447,3.0,12.0,50,1229,1384,0.892
+2011,Physics and Astronomy,All,6.0,9.821015138023153,3.0,13.0,50,1123,1344,0.842
+2012,Physics and Astronomy,All,8.0,15.06269592476489,4.0,18.0,50,1276,1577,0.822
+2013,Physics and Astronomy,All,6.0,10.278447121820616,3.0,13.0,50,1494,1828,0.823
+2014,Physics and Astronomy,All,10.0,13.360527894421116,5.0,17.0,50,1667,2010,0.835
+2015,Physics and Astronomy,All,7.0,11.790220820189274,3.0,16.0,50,1268,1465,0.87
+2016,Physics and Astronomy,All,10.0,14.28995756718529,5.0,20.0,50,1414,1676,0.846
+2017,Physics and Astronomy,All,9.0,14.957374254049446,3.0,21.0,50,1173,1381,0.853
+2018,Physics and Astronomy,All,8.0,12.727344365642239,4.0,17.0,50,1269,1575,0.807
+2019,Physics and Astronomy,All,11.0,15.633165829145728,6.0,20.0,50,995,1339,0.745
+2020,Physics and Astronomy,All,13.0,16.985529322162986,6.0,23.0,50,1313,1966,0.668
+2000,Mathematics,All,7.0,10.70735090152566,3.0,14.0,50,721,989,0.767
+2001,Mathematics,All,9.0,13.136507936507936,4.0,18.0,50,630,835,0.783
+2002,Mathematics,All,12.0,14.38996138996139,5.0,19.0,50,518,661,0.82
+2003,Mathematics,All,8.0,13.583333333333334,3.0,18.0,50,684,890,0.794
+2004,Mathematics,All,10.0,14.607669616519175,4.0,23.0,50,678,880,0.792
+2005,Mathematics,All,10.0,14.811572700296736,4.0,21.0,50,674,894,0.786
+2006,Mathematics,All,9.0,13.02454991816694,3.0,19.0,50,611,787,0.804
+2007,Mathematics,All,11.0,14.857707509881424,5.0,20.0,50,759,939,0.835
+2008,Mathematics,All,9.0,15.212912087912088,4.0,20.0,50,728,896,0.828
+2009,Mathematics,All,10.0,13.930730478589421,4.0,19.0,50,794,1010,0.813
+2010,Mathematics,All,9.0,14.122123893805309,4.0,20.0,50,565,767,0.763
+2011,Mathematics,All,9.0,13.117312072892938,4.0,19.0,50,878,1136,0.796
+2012,Mathematics,All,9.0,18.046659597030754,4.0,24.0,50,943,1212,0.795
+2013,Mathematics,All,9.0,14.134370579915135,4.0,20.0,50,707,880,0.817
+2014,Mathematics,All,13.0,17.294236602628917,5.0,25.0,50,989,1233,0.807
+2015,Mathematics,All,11.0,16.242894056847547,4.0,23.0,50,774,954,0.824
+2016,Mathematics,All,10.0,15.752283105022832,4.0,23.0,50,876,1064,0.829
+2017,Mathematics,All,11.0,17.26143790849673,5.0,22.0,50,918,1163,0.799
+2018,Mathematics,All,10.0,15.527665317139002,5.0,20.0,50,741,981,0.758
+2019,Mathematics,All,12.0,17.106546854942234,6.0,24.0,50,779,1181,0.66
+2020,Mathematics,All,12.0,16.83845126835781,6.0,22.0,50,749,1180,0.635
+2000,Chemistry,All,8.0,10.8909541511772,4.0,16.0,50,807,969,0.844
+2001,Chemistry,All,8.0,11.427472527472528,3.25,15.0,50,910,1034,0.881
+2002,Chemistry,All,8.0,11.472182596291013,3.0,16.0,50,701,823,0.864
+2003,Chemistry,All,8.0,11.477341389728096,4.0,15.0,50,662,769,0.867
+2004,Chemistry,All,6.0,10.715264187866927,3.0,13.0,50,1022,1138,0.902
+2005,Chemistry,All,6.0,10.111436950146627,3.0,13.0,50,1023,1185,0.869
+2006,Chemistry,All,8.0,11.986187845303867,4.0,16.0,50,724,822,0.889
+2007,Chemistry,All,8.0,11.564984709480122,4.0,15.0,50,1308,1438,0.912
+2008,Chemistry,All,8.0,11.744612068965518,3.0,17.0,50,928,1037,0.897
+2009,Chemistry,All,8.0,12.110641891891891,4.0,18.0,50,1184,1320,0.901
+2010,Chemistry,All,6.0,9.05105105105105,3.0,11.0,50,999,1087,0.92
+2011,Chemistry,All,6.0,9.495364238410597,3.0,12.0,50,1510,1648,0.92
+2012,Chemistry,All,10.0,16.155440414507773,5.0,22.0,50,1544,1702,0.91
+2013,Chemistry,All,9.0,10.895538628944506,4.0,14.0,50,1838,1989,0.926
+2014,Chemistry,All,6.0,10.549618320610687,3.0,14.0,50,1703,1832,0.93
+2015,Chemistry,All,8.0,11.333986287952987,4.0,14.0,50,2042,2269,0.901
+2016,Chemistry,All,6.0,10.216931216931217,3.0,12.0,50,1512,1649,0.917
+2017,Chemistry,All,7.0,11.299297676931388,3.0,14.0,50,1851,2025,0.915
+2018,Chemistry,All,9.0,12.521841794569067,4.0,16.0,50,1694,1920,0.883
+2019,Chemistry,All,9.0,13.102649006622517,5.0,16.0,50,1812,2404,0.754
+2020,Chemistry,All,10.0,13.888504753673294,6.0,17.0,50,1157,1788,0.648
+2000,"Economics, Econometrics and Finance",All,10.0,14.160714285714286,4.0,20.0,50,1288,2008,0.712
+2001,"Economics, Econometrics and Finance",All,8.0,10.624548736462094,4.0,14.0,50,831,1199,0.714
+2002,"Economics, Econometrics and Finance",All,8.0,11.781553398058252,4.0,15.0,50,618,930,0.697
+2003,"Economics, Econometrics and Finance",All,8.0,10.744047619047619,4.0,14.0,50,672,948,0.729
+2004,"Economics, Econometrics and Finance",All,11.0,15.798602287166455,5.0,19.0,50,1574,2192,0.737
+2005,"Economics, Econometrics and Finance",All,6.0,10.100436681222707,3.0,13.0,50,687,1030,0.689
+2006,"Economics, Econometrics and Finance",All,8.0,12.01522842639594,3.75,17.0,50,788,1183,0.697
+2007,"Economics, Econometrics and Finance",All,8.0,11.61576354679803,4.0,15.0,50,1015,1445,0.727
+2008,"Economics, Econometrics and Finance",All,9.0,12.896021699819169,4.0,17.0,50,1106,1689,0.682
+2009,"Economics, Econometrics and Finance",All,9.0,12.487581699346405,5.0,17.0,50,765,1128,0.703
+2010,"Economics, Econometrics and Finance",All,8.0,11.382608695652173,4.0,15.0,50,920,1228,0.768
+2011,"Economics, Econometrics and Finance",All,9.0,12.787079162875342,4.0,18.0,50,1099,1614,0.7
+2012,"Economics, Econometrics and Finance",All,9.0,13.039347408829174,5.0,17.0,50,1042,1527,0.702
+2013,"Economics, Econometrics and Finance",All,8.0,12.201612903225806,4.0,16.0,50,744,1030,0.753
+2014,"Economics, Econometrics and Finance",All,9.0,13.442820292347378,5.0,18.0,50,1163,1688,0.7
+2015,"Economics, Econometrics and Finance",All,10.0,14.639219934994584,5.0,19.0,50,923,1344,0.696
+2016,"Economics, Econometrics and Finance",All,12.0,17.01100110011001,5.0,24.0,50,909,1301,0.706
+2017,"Economics, Econometrics and Finance",All,10.0,13.370332996972754,5.0,17.0,50,991,1440,0.69
+2018,"Economics, Econometrics and Finance",All,9.0,12.968939905469277,5.0,17.0,50,1481,2361,0.629
+2019,"Economics, Econometrics and Finance",All,11.0,15.11495673671199,6.0,20.0,50,809,1266,0.641
+2020,"Economics, Econometrics and Finance",All,12.0,15.92361111111111,7.0,21.0,50,1152,1776,0.651
+2000,Agricultural and Biological Sciences,All,9.0,12.939167556029883,4.0,17.0,50,937,1091,0.869
+2001,Agricultural and Biological Sciences,All,8.0,12.284417549167927,4.0,16.0,50,1322,1581,0.85
+2002,Agricultural and Biological Sciences,All,7.0,11.217349857006672,4.0,15.0,50,1049,1283,0.831
+2003,Agricultural and Biological Sciences,All,8.0,12.143497757847534,4.0,17.0,50,1115,1338,0.839
+2004,Agricultural and Biological Sciences,All,8.0,11.686366689053056,3.0,16.0,50,1489,1756,0.858
+2005,Agricultural and Biological Sciences,All,9.0,12.648510638297873,4.0,18.0,50,1175,1415,0.842
+2006,Agricultural and Biological Sciences,All,8.0,10.93872919818457,4.0,14.0,50,1322,1583,0.844
+2007,Agricultural and Biological Sciences,All,9.0,11.695435684647302,5.0,15.0,50,1205,1394,0.872
+2008,Agricultural and Biological Sciences,All,9.0,12.44091990483743,4.0,16.0,50,1261,1503,0.846
+2009,Agricultural and Biological Sciences,All,8.0,11.70707656612529,4.0,15.0,50,1724,1909,0.911
+2010,Agricultural and Biological Sciences,All,7.0,10.641123882503193,4.0,14.0,50,1566,1758,0.897
+2011,Agricultural and Biological Sciences,All,8.0,11.873709293089753,4.0,17.0,50,1259,1466,0.862
+2012,Agricultural and Biological Sciences,All,9.0,11.472914875322441,5.0,15.0,50,1163,1364,0.859
+2013,Agricultural and Biological Sciences,All,8.0,14.888288288288289,4.0,15.0,50,1665,1933,0.871
+2014,Agricultural and Biological Sciences,All,9.0,12.154536390827518,5.0,16.0,50,2006,2267,0.891
+2015,Agricultural and Biological Sciences,All,8.0,10.711272247857615,4.0,13.0,50,1517,1718,0.893
+2016,Agricultural and Biological Sciences,All,8.0,11.486363636363636,4.0,15.0,50,1540,1739,0.888
+2017,Agricultural and Biological Sciences,All,10.0,13.130105017502917,4.0,17.0,50,1714,1976,0.868
+2018,Agricultural and Biological Sciences,All,9.0,13.283895607893061,5.0,16.0,50,1571,1917,0.821
+2019,Agricultural and Biological Sciences,All,10.0,12.571766561514195,6.0,16.0,50,1268,1591,0.798
+2020,Agricultural and Biological Sciences,All,9.0,11.464457831325301,6.0,14.0,50,1660,2228,0.746
+2021,Agricultural and Biological Sciences,All,11.0,14.255465334166146,7.0,17.0,50,1601,2407,0.665
+2000,Psychology,All,7.0,10.322322322322321,4.0,13.0,50,999,1268,0.823
+2001,Psychology,All,8.0,9.805774278215223,4.0,13.0,50,1143,1509,0.782
+2002,Psychology,All,9.0,12.00511073253833,4.0,16.0,50,1174,1543,0.794
+2003,Psychology,All,8.0,10.893745796906524,4.0,14.0,50,1487,1951,0.783
+2004,Psychology,All,7.0,10.120109190172885,3.0,13.0,50,1099,1420,0.796
+2005,Psychology,All,7.0,10.208674304418984,4.0,13.0,50,1222,1590,0.795
+2006,Psychology,All,9.0,11.3982869379015,4.0,16.0,50,934,1280,0.755
+2007,Psychology,All,8.0,11.745562130177515,4.0,15.0,50,1521,1834,0.845
+2008,Psychology,All,9.0,13.189683184402924,5.0,17.0,50,2462,3071,0.813
+2009,Psychology,All,8.0,11.133086876155268,4.0,15.0,50,1082,1364,0.81
+2010,Psychology,All,8.0,10.49074074074074,4.0,15.0,50,864,1101,0.804
+2011,Psychology,All,8.0,10.60498753117207,4.0,14.0,50,2005,2490,0.817
+2012,Psychology,All,9.0,12.764741641337386,5.0,16.0,50,1645,1992,0.846
+2013,Psychology,All,8.0,11.591865357643758,4.0,15.0,50,1426,1692,0.849
+2014,Psychology,All,9.0,12.537313432835822,4.0,17.0,50,1809,2500,0.732
+2015,Psychology,All,9.0,12.775671406003159,5.0,15.75,50,1266,1538,0.828
+2016,Psychology,All,10.0,14.741113346747149,5.0,17.0,50,1491,1850,0.812
+2017,Psychology,All,9.0,13.41504854368932,5.0,16.0,50,1648,1966,0.839
+2018,Psychology,All,10.0,13.270487106017193,5.0,17.0,50,1745,2197,0.794
+2019,Psychology,All,12.0,15.029622063329928,7.0,20.0,50,2937,3753,0.783
+2020,Psychology,All,10.0,13.658132530120483,6.0,17.0,50,1328,1914,0.694
+2021,Psychology,All,13.0,17.002267573696145,7.5,20.0,50,1323,2152,0.616
+2000,Computer Science,Artificial Intelligence,7.0,10.492462311557789,3.0,14.0,50,796,1074,0.798
+2001,Computer Science,Artificial Intelligence,6.0,9.140562248995984,3.0,11.0,50,498,672,0.796
+2002,Computer Science,Artificial Intelligence,8.0,9.897058823529411,4.0,13.0,50,544,750,0.765
+2003,Computer Science,Artificial Intelligence,6.0,8.195578231292517,2.0,11.25,50,588,769,0.81
+2004,Computer Science,Artificial Intelligence,7.0,11.627054361567636,3.0,16.0,50,791,1074,0.773
+2005,Computer Science,Artificial Intelligence,6.0,8.81505376344086,3.0,11.0,50,930,1194,0.806
+2006,Computer Science,Artificial Intelligence,7.0,9.94057142857143,3.0,13.0,50,875,1090,0.819
+2007,Computer Science,Artificial Intelligence,6.0,9.125904486251809,3.0,12.0,50,691,878,0.81
+2008,Computer Science,Artificial Intelligence,6.0,9.106891701828411,3.0,13.0,50,711,878,0.826
+2009,Computer Science,Artificial Intelligence,6.0,9.488033298647242,3.0,12.0,50,961,1215,0.813
+2010,Computer Science,Artificial Intelligence,7.0,10.313835770528684,3.0,12.0,50,889,1132,0.797
+2011,Computer Science,Artificial Intelligence,7.0,10.802757158006363,4.0,14.0,50,943,1156,0.833
+2012,Computer Science,Artificial Intelligence,8.0,10.850828729281767,4.0,14.0,50,905,1141,0.807
+2013,Computer Science,Artificial Intelligence,8.0,11.458333333333334,4.0,15.0,50,1056,1281,0.831
+2014,Computer Science,Artificial Intelligence,10.0,13.113192818110852,5.0,18.0,50,1281,1662,0.776
+2015,Computer Science,Artificial Intelligence,8.0,11.480801335559265,4.0,15.0,50,1198,1444,0.833
+2016,Computer Science,Artificial Intelligence,8.0,11.241592920353982,4.0,15.0,50,1130,1372,0.827
+2017,Computer Science,Artificial Intelligence,8.0,11.751412429378531,4.0,16.0,50,885,1077,0.825
+2018,Computer Science,Artificial Intelligence,9.0,12.739229024943311,4.0,16.0,50,882,1230,0.72
+2019,Computer Science,Artificial Intelligence,10.0,12.997734994337486,5.0,18.0,50,883,1445,0.612
+2000,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",10.0,14.215672676837725,4.0,18.0,50,1442,1707,0.855
+2001,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",11.0,14.52649930264993,5.0,19.0,50,1434,1825,0.804
+2002,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,12.44687189672294,4.0,16.0,50,1007,1262,0.81
+2003,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",10.0,14.191011235955056,4.0,18.0,50,1246,1576,0.803
+2004,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",9.0,13.440265486725664,4.0,17.25,50,1356,1644,0.836
+2005,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,13.023235031277927,3.0,18.0,50,1119,1390,0.82
+2006,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,11.468915343915343,4.0,14.0,50,1512,1790,0.856
+2007,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,11.275106512477176,4.0,15.0,50,1643,1880,0.881
+2008,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",6.0,11.025581395348837,3.0,13.0,50,860,996,0.876
+2009,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",9.0,13.524077046548957,4.0,17.0,50,1246,1473,0.867
+2010,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,11.968636032093363,4.0,15.0,50,1371,1615,0.854
+2011,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",10.0,13.396812749003985,5.0,18.0,50,1255,1499,0.841
+2012,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,12.914877868245744,4.0,15.0,50,1351,1586,0.857
+2013,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",9.0,17.36836935166994,5.0,19.0,50,2036,2422,0.847
+2014,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",9.0,12.583333333333334,4.0,16.0,50,2232,2516,0.89
+2015,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",8.0,11.202032277346085,4.0,14.0,50,1673,1907,0.879
+2016,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",9.0,13.545394736842105,4.0,18.0,50,1520,1698,0.896
+2017,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",10.0,14.198217094913476,5.0,18.0,50,1907,2207,0.865
+2018,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",10.0,15.188785046728972,5.0,18.0,50,1605,1912,0.84
+2019,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",11.0,16.69781461944235,6.0,20.0,50,1327,1696,0.782
+2020,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",11.0,15.823966942148761,7.0,19.0,50,1210,1669,0.726
+2021,Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",13.0,17.205741626794257,8.0,21.0,50,1672,2417,0.692
+2000,Chemistry,Organic Chemistry,8.0,11.535749265426054,3.0,17.0,50,1021,1210,0.85
+2001,Chemistry,Organic Chemistry,12.0,14.726335520149954,6.0,20.0,50,1067,1238,0.865
+2002,Chemistry,Organic Chemistry,8.0,11.921545667447306,3.0,16.0,50,854,1011,0.851
+2003,Chemistry,Organic Chemistry,9.0,13.692405063291138,4.0,19.0,50,790,952,0.837
+2004,Chemistry,Organic Chemistry,7.0,10.616024973985432,3.0,14.0,50,961,1087,0.888
+2005,Chemistry,Organic Chemistry,9.0,14.072727272727272,4.0,18.0,50,935,1092,0.862
+2006,Chemistry,Organic Chemistry,8.0,11.14622641509434,4.0,15.0,50,636,733,0.873
+2007,Chemistry,Organic Chemistry,7.0,11.361344537815127,3.0,16.5,50,1071,1248,0.861
+2008,Chemistry,Organic Chemistry,7.0,11.40948275862069,3.0,17.0,50,696,799,0.872
+2009,Chemistry,Organic Chemistry,7.0,11.908031088082902,4.0,15.0,50,772,904,0.857
+2010,Chemistry,Organic Chemistry,5.5,9.219376391982182,3.0,10.0,50,898,1017,0.884
+2011,Chemistry,Organic Chemistry,6.0,9.857971014492753,3.0,12.0,50,1380,1523,0.907
+2012,Chemistry,Organic Chemistry,10.0,15.94878706199461,4.0,23.0,50,1484,1693,0.878
+2013,Chemistry,Organic Chemistry,9.0,11.938253012048193,4.0,14.0,50,1992,2204,0.905
+2014,Chemistry,Organic Chemistry,8.0,10.992063492063492,4.0,14.0,50,1638,1782,0.92
+2015,Chemistry,Organic Chemistry,8.0,11.251413658112222,4.0,14.0,50,2299,2560,0.898
+2016,Chemistry,Organic Chemistry,8.0,11.956848030018762,4.0,15.0,50,1599,1795,0.891
+2017,Chemistry,Organic Chemistry,8.0,12.82229633158647,4.0,16.0,50,2099,2365,0.888
+2018,Chemistry,Organic Chemistry,7.0,10.89609644087256,4.0,13.0,50,1742,1984,0.879
+2019,Chemistry,Organic Chemistry,8.0,11.61985596707819,5.0,14.0,50,1944,2503,0.777
+2020,Chemistry,Organic Chemistry,11.0,14.611027190332326,6.0,18.0,50,1324,1940,0.683
+2000,Physics and Astronomy,Condensed Matter Physics,6.0,10.702933985330073,3.0,15.0,50,818,914,0.911
+2001,Physics and Astronomy,Condensed Matter Physics,5.0,9.46766917293233,2.0,13.0,50,665,724,0.925
+2002,Physics and Astronomy,Condensed Matter Physics,5.0,8.237988826815643,2.0,10.0,50,895,974,0.928
+2003,Physics and Astronomy,Condensed Matter Physics,6.0,10.876453488372093,2.0,14.0,50,688,773,0.904
+2004,Physics and Astronomy,Condensed Matter Physics,6.0,10.273809523809524,3.0,13.0,50,1008,1117,0.91
+2005,Physics and Astronomy,Condensed Matter Physics,17.0,17.888212927756655,5.0,28.0,50,1315,1436,0.919
+2006,Physics and Astronomy,Condensed Matter Physics,7.0,12.584062196307094,3.0,18.0,50,1029,1098,0.939
+2007,Physics and Astronomy,Condensed Matter Physics,8.0,12.001897533206831,3.0,16.0,50,1054,1150,0.926
+2008,Physics and Astronomy,Condensed Matter Physics,7.0,10.905624404194471,3.0,13.0,50,1049,1150,0.917
+2009,Physics and Astronomy,Condensed Matter Physics,8.0,11.663177339901479,3.0,16.0,50,1624,1794,0.908
+2010,Physics and Astronomy,Condensed Matter Physics,8.0,13.120481927710843,4.0,16.0,50,1162,1305,0.894
+2011,Physics and Astronomy,Condensed Matter Physics,7.0,11.064234734337827,3.0,15.0,50,1261,1423,0.89
+2012,Physics and Astronomy,Condensed Matter Physics,8.0,11.998891352549888,4.0,16.0,50,902,1003,0.9
+2013,Physics and Astronomy,Condensed Matter Physics,8.0,11.824811399832356,3.0,16.0,50,1193,1368,0.879
+2014,Physics and Astronomy,Condensed Matter Physics,8.0,11.855862584017924,4.0,15.0,50,1339,1455,0.921
+2015,Physics and Astronomy,Condensed Matter Physics,9.0,12.934865900383143,4.0,17.0,50,1305,1453,0.902
+2016,Physics and Astronomy,Condensed Matter Physics,8.0,11.855591054313098,4.0,16.0,50,1565,1755,0.892
+2017,Physics and Astronomy,Condensed Matter Physics,10.0,14.665367483296214,5.0,19.0,50,1796,2035,0.883
+2018,Physics and Astronomy,Condensed Matter Physics,9.0,13.824117255163225,4.0,19.0,50,1501,1767,0.849
+2019,Physics and Astronomy,Condensed Matter Physics,10.0,13.527244819646969,6.0,18.0,50,1303,1671,0.781
+2020,Physics and Astronomy,Condensed Matter Physics,12.0,16.983520105471325,6.0,23.0,50,1517,2259,0.672
+2000,Mathematics,Applied Mathematics,9.5,13.840909090909092,4.0,19.0,50,572,776,0.763
+2001,Mathematics,Applied Mathematics,11.0,15.642477876106195,4.0,23.0,50,565,724,0.808
+2002,Mathematics,Applied Mathematics,12.0,16.95528455284553,5.0,24.0,50,492,619,0.829
+2003,Mathematics,Applied Mathematics,10.0,15.076923076923077,4.0,21.0,50,507,666,0.784
+2004,Mathematics,Applied Mathematics,12.0,15.696306429548564,4.0,23.0,50,731,919,0.815
+2005,Mathematics,Applied Mathematics,10.0,15.225030084235861,5.0,22.0,50,831,1053,0.81
+2006,Mathematics,Applied Mathematics,12.0,16.698224852071007,5.0,24.0,50,676,883,0.78
+2007,Mathematics,Applied Mathematics,11.0,15.85503355704698,5.0,22.0,50,745,912,0.834
+2008,Mathematics,Applied Mathematics,9.0,14.543905635648755,5.0,19.0,50,763,915,0.852
+2009,Mathematics,Applied Mathematics,9.0,14.809667673716012,4.0,21.0,50,662,813,0.83
+2010,Mathematics,Applied Mathematics,10.0,16.1497461928934,5.0,23.0,50,788,1005,0.804
+2011,Mathematics,Applied Mathematics,10.0,16.04985337243402,5.0,20.75,50,682,867,0.804
+2012,Mathematics,Applied Mathematics,10.0,15.84691011235955,5.0,23.0,50,712,896,0.809
+2013,Mathematics,Applied Mathematics,10.0,15.20516129032258,5.0,21.0,50,775,1006,0.785
+2014,Mathematics,Applied Mathematics,12.0,16.776520509193777,5.0,23.0,50,707,869,0.82
+2015,Mathematics,Applied Mathematics,11.0,16.589001447178003,5.0,23.0,50,691,862,0.807
+2016,Mathematics,Applied Mathematics,11.0,16.333754740834387,5.0,22.0,50,791,1008,0.793
+2017,Mathematics,Applied Mathematics,12.0,17.542035398230087,5.0,25.0,50,904,1178,0.768
+2018,Mathematics,Applied Mathematics,11.0,15.97867298578199,6.0,21.0,50,844,1129,0.749
+2019,Mathematics,Applied Mathematics,16.0,24.191552062868368,8.0,34.0,50,1018,1404,0.726
+2020,Mathematics,Applied Mathematics,14.0,20.134453781512605,8.0,27.0,50,714,1081,0.663
+2000,"Economics, Econometrics and Finance",Economics and Econometrics,10.0,14.395292207792208,4.0,21.0,50,1232,1934,0.709
+2001,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.044633368756642,4.0,15.0,50,941,1349,0.721
+2002,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.067930489731438,3.0,14.0,50,633,912,0.725
+2003,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.618181818181819,4.0,15.0,50,770,1115,0.711
+2004,"Economics, Econometrics and Finance",Economics and Econometrics,11.0,15.952597402597403,5.75,19.0,50,1540,2124,0.744
+2005,"Economics, Econometrics and Finance",Economics and Econometrics,6.0,10.108396946564886,3.0,13.0,50,655,1007,0.668
+2006,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.851851851851851,4.0,17.0,50,783,1144,0.711
+2007,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.559101654846335,4.0,15.75,50,846,1178,0.739
+2008,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,12.611275964391691,4.0,16.0,50,1011,1419,0.738
+2009,"Economics, Econometrics and Finance",Economics and Econometrics,9.0,12.641643059490084,5.0,17.0,50,706,1026,0.711
+2010,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.277502477700693,4.0,15.0,50,1009,1348,0.764
+2011,"Economics, Econometrics and Finance",Economics and Econometrics,9.0,12.748701973001038,4.0,18.0,50,963,1394,0.71
+2012,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.427777777777777,4.0,15.0,50,900,1346,0.691
+2013,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,12.044340723453908,4.0,15.0,50,857,1248,0.714
+2014,"Economics, Econometrics and Finance",Economics and Econometrics,9.0,12.722433460076045,4.0,16.0,50,1052,1436,0.746
+2015,"Economics, Econometrics and Finance",Economics and Econometrics,10.0,14.429844097995545,5.0,18.0,50,898,1296,0.702
+2016,"Economics, Econometrics and Finance",Economics and Econometrics,13.0,18.593816631130064,5.0,27.0,50,938,1284,0.741
+2017,"Economics, Econometrics and Finance",Economics and Econometrics,10.0,13.455,5.0,17.0,50,1000,1393,0.72
+2018,"Economics, Econometrics and Finance",Economics and Econometrics,8.0,11.815854665565649,4.0,16.0,50,1211,1873,0.649
+2019,"Economics, Econometrics and Finance",Economics and Econometrics,10.0,14.447015834348356,6.0,18.0,50,821,1306,0.629
+2020,"Economics, Econometrics and Finance",Economics and Econometrics,12.0,16.058777429467085,7.0,20.0,50,1276,1945,0.657
+2000,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,10.335616438356164,3.0,14.0,50,1168,1627,0.869
+2001,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,9.0,12.927002583979329,4.0,18.0,50,1548,1720,0.905
+2002,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.846477392218716,3.0,14.0,50,951,1096,0.875
+2003,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,6.0,10.09670781893004,3.0,13.0,50,972,1105,0.885
+2004,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,17.0,17.760578468130692,5.0,27.0,50,1867,2034,0.927
+2005,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.949425287356322,3.0,13.0,50,1305,1452,0.904
+2006,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,10.275928297055058,3.0,14.0,50,1562,1793,0.877
+2007,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.155538694992412,3.0,12.0,50,1318,1438,0.919
+2008,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.370198675496688,3.0,12.0,50,1510,1637,0.927
+2009,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,10.206312548113933,4.0,13.0,50,1299,1457,0.903
+2010,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.113548387096774,4.0,11.75,50,1550,1694,0.917
+2011,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,9.990778097982709,4.0,13.0,50,1735,1925,0.906
+2012,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,9.0,12.590523690773068,5.0,16.0,50,2005,2218,0.907
+2013,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,8.0,11.482881597717546,4.0,15.0,50,1402,1529,0.919
+2014,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,8.0,11.946483180428135,4.0,15.0,50,1308,1466,0.894
+2015,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,8.990391722099039,3.0,12.0,50,1353,1498,0.907
+2016,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,8.0,10.568825910931174,4.0,14.0,50,1976,2231,0.887
+2017,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,7.0,10.730410958904109,4.0,14.0,50,1825,2009,0.908
+2018,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,8.0,10.774193548387096,4.0,13.0,50,2015,2348,0.858
+2019,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,9.5,12.26547987616099,5.0,16.0,50,1292,1649,0.784
+2020,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,10.0,12.572384428223843,6.0,16.0,50,1644,2196,0.749
+2021,"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,11.0,13.124641833810887,7.0,16.0,50,1396,2165,0.645
+2000,Medicine,Genetics,7.0,9.59692513368984,4.0,12.0,50,1496,1828,0.893
+2001,Medicine,Genetics,6.0,8.906713780918729,3.0,11.0,50,1415,1592,0.894
+2002,Medicine,Genetics,6.0,8.253830779480346,3.0,11.0,50,1501,1695,0.89
+2003,Medicine,Genetics,6.0,8.562396006655574,3.0,11.0,50,1202,1320,0.913
+2004,Medicine,Genetics,6.0,8.078755790866975,3.0,11.0,50,1511,1643,0.923
+2005,Medicine,Genetics,6.0,8.551700208188757,3.0,12.0,50,1441,1587,0.912
+2006,Medicine,Genetics,6.0,8.466590519703027,3.0,11.0,50,1751,1934,0.908
+2007,Medicine,Genetics,6.0,8.708613317043373,3.0,11.0,50,1637,1790,0.918
+2008,Medicine,Genetics,6.0,8.98471615720524,3.0,11.0,50,1832,2002,0.92
+2009,Medicine,Genetics,6.0,8.228032345013476,3.0,10.0,50,1855,1987,0.939
+2010,Medicine,Genetics,6.0,9.023468803663423,3.0,12.0,50,1747,1880,0.934
+2011,Medicine,Genetics,7.0,9.04063492063492,3.0,12.0,50,1575,1705,0.928
+2012,Medicine,Genetics,5.0,8.004725339633787,3.0,10.0,50,1693,1808,0.938
+2013,Medicine,Genetics,6.0,8.413659793814434,3.0,10.0,50,1552,1644,0.948
+2014,Medicine,Genetics,8.0,9.736238532110091,4.0,13.0,50,1308,1397,0.939
+2015,Medicine,Genetics,7.0,9.076152304609218,3.0,12.0,50,1996,2121,0.943
+2016,Medicine,Genetics,7.0,8.799468085106383,3.0,12.0,50,1880,2067,0.91
+2017,Medicine,Genetics,6.0,8.212860310421286,3.0,11.0,50,1353,1462,0.926
+2018,Medicine,Genetics,7.0,9.152443471918307,4.0,12.0,50,1371,1563,0.878
+2019,Medicine,Genetics,10.0,11.841768097373478,6.0,15.0,50,1561,1928,0.81
+2020,Medicine,Genetics,8.0,11.83248730964467,5.0,15.0,50,1182,1738,0.68
+2021,Medicine,Genetics,9.0,11.323605150214592,6.0,14.0,50,1165,1871,0.623
+2022,Medicine,Genetics,11.0,13.540363636363637,7.0,17.0,50,1375,2261,0.608
